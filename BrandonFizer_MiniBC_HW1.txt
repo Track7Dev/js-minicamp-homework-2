@@ -1,0 +1,24 @@
+Brandon Fizer
+8/16/17
+	MiniBootCamp-HW2 : 
+	For Loops-Comparison Operators-Arrays-Git(Github)
+
+For Loop: 
+	-For loops cycle through a collection of data executing code for each item in that collection 
+	then moves to the next item by adding one to the current index or slot of the collection.
+
+Condition Operators:
+	-Condition operators are used to validate before executing code.
+	- && (And) || (Or) !(isNot)
+
+Arrays:
+	-An Array is like a container that store multiple items in that single container. 
+	
+Git:
+	-Git is a Version Control System that manages data on a server for access control and 
+	to regulate modifications seperate from the original copy.
+
+GitHub:
+	-GitHub is a service use to access and view the files for each Git repository or user. 
+	
+
